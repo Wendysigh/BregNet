@@ -1,6 +1,6 @@
 # BregNet
 
-Official repository for **“Sparsity in Linear Attention Models: Bregman Testing Time Learning”** (EMNLP 26 Findings).
+Official repository for BregNet **“Sparsity in Linear Attention Models: Bregman Testing Time Learning”** (EMNLP 26 Findings).
 
 [Paper](https://aclanthology.org/2026.findings-emnlp.2246.pdf)
 
